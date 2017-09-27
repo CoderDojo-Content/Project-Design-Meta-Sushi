@@ -47,7 +47,8 @@
  
  After you have sketched out a bunch of ideas, show them to your user \(maybe that's you!\) to see what they think. Ask them for **feedback**: opinions and suggestions. Maybe they love everything. Maybe they hate it, that's ok too! Ask them what you can change to make it better.
  
- If the user gives you a few suggestions of things to add or change, sketch out the new ideas and check again.
+ If the user gives you a few suggestions of things to add or change, sketch out a new idea. It could be a couple of changes or even a completely new idea. Then check again to see what the user thinks this time.
+  * This process of making changes, getting feedback and going back again to make more changes is called **iterating**. Do as many **iterations** as you need to until you have something you are happy with.
  
  {%callout heading="Remember your goal"%}The user is the person you are making this project for. Don't be upset if they don't like something. Getting their feedback is your chance to learn more about their feelings and motivations. All feedback is good feedback because it helps you to come up with the best possible solution. {%endcallout%}
 
