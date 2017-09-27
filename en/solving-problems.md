@@ -33,10 +33,24 @@
  
  Then, **define a problem statement**. Write down specifically what the purpose of your project is. What problem will it solve? Who will you be solving a problem for? This time you are looking for **_your_ point of view**.
  
- {%callout heading="Be precise"%}This step is all about <b>focus</b>. Your project will be much more useful if you have a clear idea of what you want it to do and why before you start!{%endcallout%}
+ {%callout heading="Be specific!"%}This step is all about <b>focus</b>. Your project will be much more useful if you have a clear idea of what you want it to do and why before you start.{%endcallout%}
 
 
-
-
- 
 3. # Ideate
+ With a clear problem to solve, you can now get the creative juices flowing and start **brainstorming ideas** for how you could solve the problem. Pens and pencils at the ready... and lots of paper! 
+ 
+ No writing here: sketch out your ideas with pictures instead of words. Don't worry about your drawing skills. Since the aim is to describe **ideas** and not create a work of art, stick figures and squiggly lines are perfect!
+ 
+ Come up with as many ideas as you can. Are you planning a website? An app? A game? Maybe you draw a few screens that you have in mind, or some possible layouts of a page. Will there be characters? Buttons? Sounds? Are you designing a robot? What will it look like? What will it do? 
+ 
+ Make sure you put down every idea that pops into your head: you are going for **quantity**, not **quality**. Who cares if an idea is good or bad? You can think about that later. Right now you just want to get everything out of your head and onto that paper.  
+ 
+ 
+
+ Let your imagination run wild.
+ 
+ {%callout heading="Remember your goal"%}{%endcallout%}
+
+4. # Prototype
+
+5. # Test
