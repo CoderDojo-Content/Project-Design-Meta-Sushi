@@ -39,7 +39,7 @@
  
  Asking "Why?" is the key to finding out as many small details as you can.
  
- {%callout "Write it down"%}{%endcallout%}
+ {%callout "Write it down"%}Make sure you have a pen and paper ready when you talk to your user. Write down lots of notes, keeping track of all the little details. {%endcallout%}
 
 
 
