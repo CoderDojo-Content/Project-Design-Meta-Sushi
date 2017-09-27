@@ -43,9 +43,9 @@
  
  Come up with as many ideas as you can. Are you planning a website? An app? A game? Maybe you draw a few screens that you have in mind, or some possible layouts of a page. Will there be characters? Buttons? Sounds? Are you designing a robot? What will it look like? What will it do? 
  
- Make sure you put down every idea that pops into your head: you are going for **quantity**, not **quality**. Who cares if an idea is good or bad? You can think about that later. Right now you just want to get everything out of your head and onto that paper.  
+ Make sure you put down every idea that pops into your head: you are going for **quantity**, not **quality**. Let your imagination run wild. Who cares if an idea is good or bad? You can think about that later. Right now you just want to get everything out of your head and onto that paper.  
  
- After you have sketched out a bunch of ideas, show them to your user \(maybe that's you!\) to see what they think. Ask them for **feedback**: opinions and suggestions. Maybe they love everything. Maybe they hate it, that's ok too! Remember, your user is the person who you are making this project forDon't be upsetto tell you what they think
+ After you have sketched out a bunch of ideas, show them to your user \(maybe that's you!\) to see what they think. Ask them for **feedback**: opinions and suggestions. Maybe they love everything. Maybe they hate it, that's ok too! Remember, your user is the person who you are making this project for. Don't be upset if they don't like something, instead ask them what you can change to make it better.
 
  Let your imagination run wild.
  
