@@ -23,7 +23,23 @@
 
  ![](designthinkingsteps.png)
  Image: Modes/Mindsets Handout by Stanford University d.school \([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)\) 
-
+ 
+ It is an **iterative** process. That means you
+ 
+1. # Empathise
+ The first step is to consider who you are making the project for. That will the **user** or **users**. Is it yourself? Your friends? A particular group of people, for example, school kids of a certain age, parents, people with a disability or difficulty of some sort?
+ 
+ Whoever your **user** is, the aim of this step is to **understand** them. The best way to do this is by asking them questions.
+ 
+ Get them to tell you about their experiences with the activity your are interested in. Ask questions such as
+ * When was the last time they did the activity?
+ * What was their favourite part?
+ * What was their least favourite part?
+ * Why?
+ 
+ Asking "Why?" is the key to finding out as many small details as you can.
+ 
+ {%callout title="Write it down"%}{%endcallout%}
 
 
 
