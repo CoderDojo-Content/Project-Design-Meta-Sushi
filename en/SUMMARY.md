@@ -1,6 +1,5 @@
 # Summary
 
-* [Getting Started](README.md)
-* [Solve problems](solving-problems.md)
-* [Get building](get-building.md)
+* [About this series](README.md)
+* [The design thinking process](solving-problems.md)
 
