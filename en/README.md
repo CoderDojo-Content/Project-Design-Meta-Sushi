@@ -23,7 +23,7 @@
 
 
 ![](designthinkingsteps.png)
-Image: Modes/Mindsets handout by Stanford University d.school \([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)\) 
+Image: Modes/Mindsets Handout by Stanford University d.school \([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)\) 
 
 
 
