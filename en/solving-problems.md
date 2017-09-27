@@ -56,7 +56,12 @@
  This is the part where you actually make something! 
  
  Based on the ideas you came up with and the **feedback** you got, create the first **prototype** of your project.
+  * A **prototype** is an early version that is made for testing out an idea
  
+ This is not a finished solution! It doesn't even have to be half of a solution. Start small. For example, if you are making a game, you might just do one screen that does one little thing. If you are making a robot, maybe you build a mini version of it with paper and straws, to get an idea of what it will look like in real life.
+ 
+ {%callout heading="The prototype is not the end"%}You don't have to make the whole project at this stage. You might only make one tiny part of it or a simple example for now. You just need to do enough to test it out and see if you are on the right track. {%endcallout%}
+
  
 
 5. # Test
