@@ -26,22 +26,7 @@
  
  It is an **iterative** process. That means you repeat parts of it, or even repeat the whole process, maybe lots of times before you are finished.
  
-1. # Empathise
- The first step is to consider who you are making the project for. That will the **user** or **users**. Is it yourself? Your friends? A particular group of people, for example, school kids of a certain age, parents, people with a disability or difficulty of some sort?
- 
- Whoever your **user** is, the aim of this step is to **understand** them. The best way to do this is by asking them questions.
- 
- Get them to tell you about their experiences with the activity your are interested in. Ask questions such as
- * When was the last time they did the activity?
- * What was their favourite part?
- * What was their least favourite part?
- * Why?
- 
- Dig deeper by asking "Why?" often.
- 
- Find out what's important to them. Don't just focus on facts, but look for stories and feelings. You are trying to put yourself in their shoes so that you can understand **what they need or want**.
- 
- {%callout heading="Write it down"%}Make sure you have a pen and paper ready when you talk to your user. Write down lots of notes, keeping track of all the little details. {%endcallout%}
+
 
 
 
