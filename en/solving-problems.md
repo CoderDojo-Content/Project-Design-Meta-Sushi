@@ -60,8 +60,19 @@
  
  This is not a finished solution! It doesn't even have to be half of a solution. Start small. For example, if you are making a game, you might just do one screen that does one little thing. If you are making a robot, maybe you build a mini version of it with paper and straws, to get an idea of what it will look like in real life.
  
- {%callout heading="The prototype is not the end"%}You don't have to make the whole project at this stage. You might only make one tiny part of it or a simple example for now. You just need to do enough to test it out and see if you are on the right track. {%endcallout%}
+ {%callout heading="The prototype is not the end"%}You don't have to make the whole project at this stage. You might only make one tiny part of it or a simple example for now. You just need to do enough to test it out and see if you are on the right track. You will make plenty more prototypes as you <b>iterate</b> through the process. {%endcallout%}
 
- 
 
 5. # Test
+ Once you have a working prototype, get a user to **try it out**, or try it yourself. 
+ 
+ Once again, the aim is to get **feedback**. Are you on the right track with the project? Is it doing what it is supposed to do? So far maybe it only does a part of it's job, in that case does it do that correctly? Does it look how you want it to look? 
+ 
+ Is the person using your creation the way you expected them to? If not, why not? What can you change?
+ 
+ Just like when you were sketching out ideas, all feedback is good feedback. That's the purpose of **prototyping**. It would be an awful shame if you spent a lot of time developing a whole project and found out after you were done that it wasn't right. By doing lots of small **iterations**, you build your project bit by bit, testing it as you go along. That way you find out early on if you need to change something.
+ 
+ {%callout heading="Iterate!"%}Keep making new prototypes and testing them out. Do a small chunk of work each time, for example add a new screen or button, work on a bit of movement or sound, whatever makes up your project. Gradually you will build up all the pieces and end up with a finished product. Test out the finished product too! Keep making changes and testing again until you and your user are satisfied. {%endcallout%}
+
+
+ 
