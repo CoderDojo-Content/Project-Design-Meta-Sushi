@@ -41,7 +41,7 @@
  
  Find out what's important to them. Don't just focus on facts, but look for stories and feelings. You are trying to put yourself in their shoes so that you can understand **what they need or want**.
  
- {%callout "Write it down"%}Make sure you have a pen and paper ready when you talk to your user. Write down lots of notes, keeping track of all the little details. {%endcallout%}
+ {%callout heading="Write it down"%}Make sure you have a pen and paper ready when you talk to your user. Write down lots of notes, keeping track of all the little details. {%endcallout%}
 
 
 
