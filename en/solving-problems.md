@@ -21,15 +21,19 @@
 
 
 2. # Define
- Once you have had a nice chat with your user it's time to take all the information you gathered and try to sort it into something useful. Read through your notes and look for these two key things:
+ Once you have gathered plenty of information it's time to sort it out and make sense of it all. The purpose of this step is to take what you have learned and figure out what problem you will be trying to solve with your project.
+ 
+ Grab a highlighter or a different coloured pen and read through your notes, looking for connections and things that jump out at you as important. Underline stuff, circle things, draw connecting lines, and write down a couple of **needs** and **insights**:
  
  ### Needs
- Things that the person needs. What are they trying to do? Why do they need to do it?
+ Things that the person needs. There could be just one, or there could be many! What is the user trying to do? Why do they need to do it?
  
  ### Insights
  Extra information you've discovered that might help you when you start coming up with your solution.
  
- {%callout heading="Highlighters at the ready!"%}Grab a highlighter or a different coloured pen and {%endcallout%}
+ Then, **define a problem statement**. Write down specifically what the purpose of your project is. What problem will it solve? Who will you be solving a problem for? This time you are looking for **_your_ point of view**.
+ 
+ {%callout heading="Be precise"%}This step is all about <b>focus</b>. Your project will be much more useful if you have a clear idea of what you want it to do and why before you start!{%endcallout%}
 
 
 
