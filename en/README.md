@@ -39,7 +39,7 @@
  
  Asking "Why?" is the key to finding out as many small details as you can.
  
- {%callout title="Write it down"%}{%endcallout%}
+ {%callout "Write it down"%}{%endcallout%}
 
 
 
