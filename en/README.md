@@ -1,6 +1,29 @@
-1. 
+1. You've decided that you want to do a project. Yay! That's exciting. 
+
+ But just how do you get started? It can seem like a daunting task, but don't worry, you've got this. The trick is to break it up into little pieces and start small. 
+ 
+ These cards will take you through the process of **designing** something from start to finish. They are based on the **Design Thinking Process** taught at the Stanford d.school.
+
+2. The design process is made up of five steps:
+ * **Empathise**
+ 
+   Put yourself in the shoes of the person or people who will use your project and try to understand their point of view.
+ * **Define**
+ 
+ Figure out what problem needs solving.
+ * **Ideate**
+ 
+ Sketch out as many ideas as you can for how you could go about solving the problem.
+ * **Prototype**
+ 
+ Put one or more of your ideas into action and build something. It doesn't have to be perfect first time!
+ * **Test**
+ 
+ Try out your prototype to see what can be improved upon. Keep prototyping and testing until you have a finished product you are happy with!
 
 
+![](designthinkingsteps.png) 
+Image taken from Modes/Mindsets handout by Stanford University d.school \(CC BY-NC-SA 4.0\)
 
 
 
