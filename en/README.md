@@ -22,7 +22,8 @@
  Try out your prototype to see what can be improved upon. Keep prototyping and testing until you have a finished product you are happy with!
 
 
-![Image from Modes/Mindsets handout by Stanford University d.school \(CC BY-NC-SA 4.0\)](designthinkingsteps.png) 
+![](designthinkingsteps.png)
+Image from Modes/Mindsets handout by Stanford University d.school \([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)\) 
 
 
 
