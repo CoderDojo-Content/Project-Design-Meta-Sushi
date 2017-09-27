@@ -45,12 +45,17 @@
  
  Make sure you put down every idea that pops into your head: you are going for **quantity**, not **quality**. Let your imagination run wild. Who cares if an idea is good or bad? You can think about that later. Right now you just want to get everything out of your head and onto that paper.  
  
- After you have sketched out a bunch of ideas, show them to your user \(maybe that's you!\) to see what they think. Ask them for **feedback**: opinions and suggestions. Maybe they love everything. Maybe they hate it, that's ok too! Remember, your user is the person who you are making this project for. Don't be upset if they don't like something, instead ask them what you can change to make it better.
-
- Let your imagination run wild.
+ After you have sketched out a bunch of ideas, show them to your user \(maybe that's you!\) to see what they think. Ask them for **feedback**: opinions and suggestions. Maybe they love everything. Maybe they hate it, that's ok too! Ask them what you can change to make it better.
  
- {%callout heading="Remember your goal"%}{%endcallout%}
+ If the user gives you a few suggestions of things to add or change, sketch out the new ideas and check again.
+ 
+ {%callout heading="Remember your goal"%}The user is the person you are making this project for. Don't be upset if they don't like something. Getting their feedback is your chance to learn more about their feelings and motivations. All feedback is good feedback because it helps you to come up with the best possible solution. {%endcallout%}
 
 4. # Prototype
+ This is the part where you actually make something! 
+ 
+ Based on the ideas you came up with and the **feedback** you got, create the first **prototype** of your project.
+ 
+ 
 
 5. # Test
