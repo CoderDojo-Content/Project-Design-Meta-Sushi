@@ -42,11 +42,9 @@
 
  After you've sketched out your ideas, you can look at them and think about which ones you like. Pick your favourite idea and then start jotting down some ideas on how you might make that idea a reality.
 
- You've decided **what** you will make, now you're deciding **how** you will make it. List some of the things you want your project to do, as well as some of the things it won't do. Decide what technology you will use: for example will it be a mobile phone app, or perhaps a Scratch project, or something else?
+ Once you've decided **what** you will make, it's time to think about **how** you will make it. List some of the things you want your project to do, as well as some of the things it won't do. Decide what technology you will use: for example will it be a mobile phone app, or perhaps a Scratch project, or something else?
  
- If you can, show your ideas to your user \(maybe that's you!\) to see what they think. Ask them for **feedback**: opinions and suggestions. Maybe they love everything. Maybe they hate it, that's ok too! Ask them what you can change to make it better.
- 
- {%callout heading="INSERT SUITABLE HEADING HERE"%}INSERT SUITABLE TEXT HERE! {%endcallout%}
+ {%callout heading="Write everything down"%} Not every idea has to be amazing. In fact, for almost every brilliant invention, the chances are someone had a tonne of silly ideas too that turned out to be terrible! That's how brainstorming works. {%endcallout%}
 
 4. # Design and build
  Before you jump right in and start coding or constructing circuits, it's a good idea to plan out how it will work and how it should look, so that you what you need to do. 
@@ -73,13 +71,13 @@
 5. # Test and tweak
  Once you have a working prototype, get a user to **try it out**, or try it yourself. 
  
- The aim of testing is to get **feedback**. Are you on the right track with the project? Is it doing what it is supposed to do? So far maybe it only does a part of it's job, in that case does it do that correctly? Does it look how you want it to look? 
+ The aim of testing is to get **feedback**: opinions and suggestions. Are you on the right track with the project? Is it doing what it is supposed to do? So far maybe it only does a part of it's job, in that case does it do that correctly? Does it look how you want it to look? 
  
  Is the person using your project the way you expected them to? If not, why not? What can you change?
  
  If the person testing your project has problems or gets stuck, don't help them straight away. You won't be there to explain things every time someone uses your project. Instead, make a note of it – that could be a place where you can make improvements!
 
- Jot down answers to some of the question above and anything else you learned from the test. Then plan what you need to do next. If you go back and do more building, be sure to test again afterwards!
+ Try to write down answers to some of the questions above and anything else you learned from the test. Then plan what you need to do next. If you go back and do more building, be sure to test again afterwards!
 
  Keep doing a small chunk of work at a time and testing again, for example add a new screen or button, work on a bit of movement or sound, whatever makes up your project. This is called **iterating**. Gradually you will build up all the pieces and end up with a finished product. Test out the finished product too! Keep making changes and testing again until you and your user are satisfied. 
  * Coders and designers all over the world work like this too. Many of the applications you use probably went through lots of **iterations** before they were done. In fact, many projects are never fully complete! Think about applications or websites that you've seen: they sometimes get updates, right? Each update is the result of another **iteration** of testing and building.
