@@ -8,7 +8,6 @@
 
  Do some research to find out if anybody done something similar to your project before or tried to solve a similar problem. 
  
- 
  {%callout heading="Be specific!"%}Define a <b>problem statement</b> by writing down specifically what you want to achieve. Your project will be much more useful if you have a clear idea of what you want it to do and why before you start.{%endcallout%}
 
 
@@ -38,7 +37,6 @@
  
  No writing here: sketch out your ideas with **pictures** instead of words. Don't worry about your drawing skills. Since the aim is to describe **ideas** and not create a work of art, stick figures and squiggly lines are perfect!
  
- 
  Make sure you put down every idea that pops into your head: you are going for **quantity**, not **quality**. Let your imagination run wild. Who cares if an idea is good or bad? You can think about that later. Right now you just want to get everything out of your head and onto that paper.  
   * If you only had one or two ideas, that's ok too! The important thing is to get them on paper.
 
@@ -47,7 +45,6 @@
  You've decided **what** you will make, now you're deciding **how** you will make it. List some of the things you want your project to do, as well as some of the things it won't do. Decide what technology you will use: for example will it be a mobile phone app, or perhaps a Scratch project, or something else?
  
  If you can, show your ideas to your user \(maybe that's you!\) to see what they think. Ask them for **feedback**: opinions and suggestions. Maybe they love everything. Maybe they hate it, that's ok too! Ask them what you can change to make it better.
- 
  
  {%callout heading="INSERT SUITABLE HEADING HERE"%}INSERT SUITABLE TEXT HERE! {%endcallout%}
 
@@ -60,20 +57,17 @@
 
  For example, the **flow** chart for an automatic string dispenser might look like this: ![](assets/FlowChartExample.png)
 
-
  Then sketch out what your project will look like in action. 
  
  If you're making a software project, such as an app, a website, or something in Scratch, draw out the screens you'll create, or some possible layouts of a page. Will your user need to **navigate** \(find their way around different screens\), and if so, how will they do that? For example, maybe you'll have a **navigation** menu or things that the user will click or swipe, or perhaps the person will press keys on their keyboard or even use voice commands.
  
  For a hardware project, draw sketches of any parts you'll be building and circuits you need to make. Are you designing a robot? What will it look like? 
-
  
  Finally comes the part where you actually make something! Based on your designs, create the first **prototype** of your project.
   * A **prototype** is an early version that is made for testing out an idea
  
  This is not a finished solution! It doesn't even have to be half of a solution. Start small. For example, if you are making a game, you might just do one screen that does one little thing. The idea is to do just enough so that somebody can try out a little bit of it.
 
- 
  {%callout heading="The prototype is not the end"%}You don't have to make the whole project at this stage. You might only make one tiny part of it or a simple example for now. You just need to do enough to test it out and see if you are on the right track. You will make plenty more prototypes as you <b>iterate</b> through the process. {%endcallout%}
 
 
@@ -84,18 +78,14 @@
  
  Is the person using your project the way you expected them to? If not, why not? What can you change?
  
-
  Remember, the user is the person you are making this project for. Don't be upset if they don't like something. All feedback is good feedback because it helps you to come up with the best possible solution.
 
  Jot down answers to the questions above and anything else you learned from the test. Then plan what you need to do next. If you go back and do more building, be sure to test again afterwards!
   * This process of making changes, getting feedback and going back again to make more changes is called **iterating**. Do as many **iterations** as you need to until you have something you are happy with.
- 
-
 
  Just like when you were sketching out ideas, all feedback is good feedback. That's the purpose of **prototyping**. It would be an awful shame if you spent a lot of time developing a whole project and found out after you were done that it wasn't right. By doing lots of small **iterations**, you build your project bit by bit, testing it as you go along. That way you find out early on if you need to change something.
 
-
-
+ * think about an app or website you like to use - sometimes it gets updates right? -> e.g. of iteration in real life (and projects that are never fully finished)
 
  {%callout heading="Iterate!"%}Keep making new prototypes and testing them out. Do a small chunk of work each time, for example add a new screen or button, work on a bit of movement or sound, whatever makes up your project. Gradually you will build up all the pieces and end up with a finished product. Test out the finished product too! Keep making changes and testing again until you and your user are satisfied. {%endcallout%}
 
