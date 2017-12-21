@@ -66,10 +66,9 @@
  Finally comes the part where you actually make something! Based on your designs, create the first **prototype** of your project.
   * A **prototype** is an early version that is made for testing out an idea
  
- This is not a finished solution! It doesn't even have to be half of a solution. Start small. For example, if you are making a game, you might just do one screen that does one little thing. The idea is to do just enough so that somebody can try out a little bit of it.
+ You don't have to make the whole project at this stage. You might only make one tiny part of it or a simple example for now. For example, if you are making an animation, or an app, you might just do one screen that does one little thing. The idea is to do just enough to test it out and see if you are on the right track.
 
- {%callout heading="The prototype is not the end"%}You don't have to make the whole project at this stage. You might only make one tiny part of it or a simple example for now. You just need to do enough to test it out and see if you are on the right track. You will make plenty more prototypes as you <b>iterate</b> through the process. {%endcallout%}
-
+ {%callout heading="Why not just build the whole thing at once?"%}It would be an awful shame if you spent a lot of time developing a whole project and found out after you were done that it wasn't right. By building your project bit by bit, testing it as you go along, you find out early on if you need to change something. {%endcallout%}
 
 5. # Test and tweak
  Once you have a working prototype, get a user to **try it out**, or try it yourself. 
@@ -78,16 +77,15 @@
  
  Is the person using your project the way you expected them to? If not, why not? What can you change?
  
- Remember, the user is the person you are making this project for. Don't be upset if they don't like something. All feedback is good feedback because it helps you to come up with the best possible solution.
+ If the person testing your project has problems or gets stuck, don't help them straight away. You won't be there to explain things every time someone uses your project. Instead, make a note of it – that could be a place where you can make improvements!
 
- Jot down answers to the questions above and anything else you learned from the test. Then plan what you need to do next. If you go back and do more building, be sure to test again afterwards!
-  * This process of making changes, getting feedback and going back again to make more changes is called **iterating**. Do as many **iterations** as you need to until you have something you are happy with.
+ Jot down answers to some of the question above and anything else you learned from the test. Then plan what you need to do next. If you go back and do more building, be sure to test again afterwards!
 
- Just like when you were sketching out ideas, all feedback is good feedback. That's the purpose of **prototyping**. It would be an awful shame if you spent a lot of time developing a whole project and found out after you were done that it wasn't right. By doing lots of small **iterations**, you build your project bit by bit, testing it as you go along. That way you find out early on if you need to change something.
+ Keep doing a small chunk of work at a time and testing again, for example add a new screen or button, work on a bit of movement or sound, whatever makes up your project. This is called **iterating**. Gradually you will build up all the pieces and end up with a finished product. Test out the finished product too! Keep making changes and testing again until you and your user are satisfied. 
+ * Coders and designers all over the world work like this too. Many of the applications you use probably went through lots of **iterations** before they were done. In fact, many projects are never fully complete! Think about applications or websites that you've seen: they sometimes get updates, right? Each update is the result of another **iteration** of testing and building.
 
- * think about an app or website you like to use - sometimes it gets updates right? -> e.g. of iteration in real life (and projects that are never fully finished)
+ {%callout heading="You're doing great!"%} Remember, the user is the person you are making this project for. Don't be upset if they don't like something. All feedback is good feedback because it helps you to come up with the best possible solution. {%endcallout%}
 
- {%callout heading="Iterate!"%}Keep making new prototypes and testing them out. Do a small chunk of work each time, for example add a new screen or button, work on a bit of movement or sound, whatever makes up your project. Gradually you will build up all the pieces and end up with a finished product. Test out the finished product too! Keep making changes and testing again until you and your user are satisfied. {%endcallout%}
 
 
  
