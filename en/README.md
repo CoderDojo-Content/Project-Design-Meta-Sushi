@@ -27,8 +27,7 @@
  
  As soon as some of the project works, get people to try it! Ask them how to make it better or more useful. Tweak it and test it again.
 
- ![](designthinkingsteps.png)
-
+ ![](assets/projectdesignsteps.png)
  
  This is an **iterative** process. That means you repeat parts of it, maybe lots of times, before you are finished.
  
