@@ -2,7 +2,13 @@
 
  But just how do you get started? It can seem like a daunting task, but don't worry, you've got this. The trick is to break the project down into little pieces and start small. 
 
- These Meta Sushi cards will take you through the process of designing and building your technology project from start to finish. There are five main steps you will carry out:
+ For example, when someone wants to build a house, they will break that project down into pieces:
+ - They might first decide what kind of house to build
+ - Then they draw up plans for what it should look like
+ - Next, they'll work out how they will build it based on the plans
+ - Finally, they gather the materials (and maybe builders!) needed and then do the building work
+
+ 2. These Meta Sushi Cards will take you through the process of designing and building your technology project from start to finish. There are five main steps you will carry out:
 
  ![](assets/projectdesignsteps.png)
 
@@ -18,11 +24,7 @@
  
  This cycle of testing and tweaking is an **iterative** process. That means you repeat parts of it, maybe lots of times, before you are finished.
  
-2. Breaking the process down like this is a trick commonly used for lots of different types of projects, not just technology ones. For example, when someone wants to build a house, they will break that project down into pieces:
- - They might first decide what kind of house to build
- - Then they draw up plans for what it should look like
- - Next, they'll work out how they will build it based on the plans
- - Finally, they gather the materials (and maybe builders!) needed and then do the building work
+2. 
  
 
 

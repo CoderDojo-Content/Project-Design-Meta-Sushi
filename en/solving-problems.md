@@ -82,7 +82,7 @@
 
  Try to write down answers to some of the questions above and anything else you learned from the test. Then plan what you need to do next. If you go back and do more building, be sure to test again afterwards!
 
- {%callout heading="You're doing great!"%} Remember, the user is the person you are making this project for. Don't be upset if they don't like something. All feedback is good feedback, because it will help you to come up with the best possible solution. {%endcallout%}
+ {%callout heading="You're doing great!"%} Remember, the user is the person you are making this project for. Don't be upset if they don't like something. All feedback is good feedback, because it will help you to come up with the best <br />possible solution. {%endcallout%}
 
  ### Iterate!
  Keep doing a small chunk of work at a time and then testing your project again. For example, add a new screen or button, work on a bit of movement or sound, or whatever else makes up your project. This is called **iterating**. Gradually, you will build up all the pieces and end up with a finished product. Test out the finished product, too! Keep making changes and testing again until you and your user are satisfied.
