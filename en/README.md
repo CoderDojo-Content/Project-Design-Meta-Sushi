@@ -8,7 +8,7 @@
 
  **Pick a problem**: How do you want to change the world with technology? Look up how other people have solved similar issues.
     
- **Who are you helping?**: Think about what kinds of people your project will help and how it will work best for them. How can you adapt what you are building to their needs?
+ **Who are you helping?** Think about what kinds of people your project will help and how it will work best for them. How can you adapt what you are building to their needs?
 
  **Generate ideas**: Collect ideas, no matter how wacky, for how your project might work. Pick your favourite!
 
