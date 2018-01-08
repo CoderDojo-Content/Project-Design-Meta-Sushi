@@ -12,7 +12,7 @@
 
  **Generate ideas:** Collect ideas, no matter how wacky, for how your project might work. Pick your favourite!
 
- **Design and build** Draw some designs for the idea you picked, then start making it! Remember: your Dojo's Mentors can help if you have trouble.
+ **Design and build:** Draw some designs for the idea you picked, then start making it! Remember: your Dojo's Mentors can help if you have trouble.
  
  **Test and tweak** As soon as some of the project works, get people to try it! Ask them what aspects of it you could make better or more useful. Tweak your project, and test it again.
  
