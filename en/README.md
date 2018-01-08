@@ -8,7 +8,7 @@
  - Next, they'll work out how they will build it based on the plans
  - Finally, they gather the materials (and maybe builders!) needed and then do the building work
 
- 2. These Meta Sushi Cards will take you through the process of designing and building your technology project from start to finish. There are five main steps you will carry out:
+2. These Meta Sushi Cards will take you through the process of designing and building your technology project from start to finish. There are five main steps you will carry out:
 
  ![](assets/projectdesignsteps.png)
 
@@ -23,10 +23,4 @@
  **Test and tweak:** As soon as some of the project works, get people to try it! Ask them what aspects of it you could make better or more useful. Tweak your project, and test it again.
  
  This cycle of testing and tweaking is an **iterative** process. That means you repeat parts of it, maybe lots of times, before you are finished.
- 
-2. 
- 
-
-
-
 
