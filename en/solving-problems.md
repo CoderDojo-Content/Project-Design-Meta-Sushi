@@ -20,9 +20,9 @@
 
  A great way to **empathise** with your user(s) is by asking them questions. Get them to tell you about their experiences with the thing you are helping them with. **Investigate** ways in which your project could help them. Keep asking them "Why?" to get as much detail as you can! Be sure to listen carefully to their answers, and write down lots of notes to keep track of all the little details. Or you could even ask their permission to make a recording of the conversation.
 
- It's OK if you have some ideas already about what your user(s) might say, but make sure you ask questions to test whether these ideas — your **assumptions** — are correct! Find out what's important to them. You are trying to see things from their point of view, so you that you can understand **what they need or want**.
-
  * If you can't talk to your user directly, you could make **observations** based on things you've read or seen on TV. Be sure to base your observations on more than one text/video.
+
+ It's OK if you have some ideas already about what your user(s) might say, but make sure you ask questions to test whether these ideas — your **assumptions** — are correct! Find out what's important to them. You are trying to see things from their point of view, so you that you can understand **what they need or want**.
 
  Another thing to think about is whether your user is comfortable with technology! Will they be able to use your project, or will they need help?
  
@@ -68,7 +68,7 @@
  
  You don't have to build the whole project at this stage. You might only make one tiny part or a simple version of it for now. For example, if you are making an animation or an app, you might just create one screen that does one little thing. The idea is to do just enough so that someone can test it out and you can see whether you're on the right track.
 
- {%callout heading="Why not just build the whole thing at once?"%}It would be an awful shame if you spent a lot of time developing a whole project, and then found out after you were done that it wasn't right! By building your project bit by bit and testing it as you go along, you find out early on if you need to change something.{%endcallout%}
+ {%callout heading="Why not just build the whole thing at once?"%}It would be an awful shame if you spent a lot of time developing a whole project, and then found out after you were done that it didn't solve the user's problem or they couldn't use it! By building your project bit by bit and testing it as you go along, you find out early on if you need to change something.{%endcallout%}
 
 5. ## Test and tweak
 
@@ -76,7 +76,7 @@
  
  The aim of testing is to get **feedback** — opinions and suggestions. Are you on the right track with the project? Is it doing what it is supposed to do? So far maybe it only does a part of its job — does it do that correctly? Does it look how you want it to look? 
  
- Is the person you've asked to test your project using it the way you expected them to? If not, why not? What can you change?
+ Is the person you've asked to test your project using it the way you expected them to? If not, why not? What should you change?
  
  If the person testing your project has problems or gets stuck, don't help them straight away. You won't be there to explain things every time someone uses your project. Instead, make a note of it – that could be a place where you can make improvements!
 
