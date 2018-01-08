@@ -42,7 +42,7 @@
 
  List some of the things you want your project to do, as well as some of the things it won't do. Decide what technology you will use. For example, will you be building a mobile phone app, or a Scratch project, or perhaps a machine or device, or something else?
  
- {%callout heading="Write everything down"%}Not every idea has to be amazing! In fact, during building almost every brilliant invention, the chances are that the inventor had a tonne of ideas that turned out to be silly or terrible. That's how brainstorming works!{%endcallout%}
+ {%callout heading="Write everything down"%}Not every idea has to be amazing! In fact, during building almost every brilliant invention, the <br />chances are that the inventor had a tonne of ideas that turned out to be silly or terrible. That's how brainstorming works!{%endcallout%}
 
 4. ## Design and build
 
