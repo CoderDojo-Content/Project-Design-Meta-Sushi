@@ -1,4 +1,4 @@
-## 1. Pick a problem
+1. ## Pick a problem
 
 The first step is to **define** the purpose of your project.
 
