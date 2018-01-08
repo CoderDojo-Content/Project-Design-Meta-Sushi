@@ -68,7 +68,7 @@
  
  You don't have to build the whole project at this stage. You might only make one tiny part or a simple version of it for now. For example, if you are making an animation or an app, you might just create one screen that does one little thing. The idea is to do just enough so that someone can test it out and you can see whether you're on the right track.
 
- {%callout heading="Why not just build the whole thing at once?"%}It would be an awful shame if you spent a lot of time developing a whole project, and then found out after you were done that it didn't solve the user's problem or they couldn't use it! By building your project bit by bit and testing it as you go along, you find out early on if you need to change something.{%endcallout%}
+ {%callout heading="Why not just build the whole thing at once?"%}It would be an awful shame if you spent a lot of time developing a whole project, and then found out after you were done that it didn't solve the user's problem or they couldn't use it! By building your project bit by bit and testing it as you go along, you find out early on if you need to change <br />something.{%endcallout%}
 
 5. ## Test and tweak
 
