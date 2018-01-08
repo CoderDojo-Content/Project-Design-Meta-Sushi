@@ -1,6 +1,4 @@
- ## How to design and build a project
-
- You've decided that you want to do a project. Yay! That's exciting. 
+1. You've decided that you want to do a project. Yay! That's exciting. 
 
  But just how do you get started? It can seem like a daunting task, but don't worry, you've got this. The trick is to break the project down into little pieces and start small. 
 
@@ -12,29 +10,29 @@
  
  These Meta Sushi cards will take you through the process of designing and building your technology project from start to finish. 
 
- ### Let's get started
+2.  ### Let's get started
 
  Break the design and build process of your project down. There are five main steps you will carry out:
 
  ![](assets/projectdesignsteps.png)
 
-1. **Pick a problem**
+ ### **Pick a problem**
 
  How do you want to change the world with technology? Look up how other people have solved similar issues.
     
-2. **Who are you helping?**
+ ### **Who are you helping?**
  
  Think about what kinds of people your project will help and how it will work best for them. How can you adapt what you're building to their needs?
 
-3. **Generate ideas**
+ ### **Generate ideas**
  
  Collect ideas, no matter how wacky, for how your project might work. Pick your favourite!
 
-4. **Design and build**
+ ### **Design and build**
  
  Draw some designs for the idea you picked, then start making it! Remember: your Dojo's Mentors can help if you have trouble.
  
-5. **Test and tweak**
+ ### **Test and tweak**
  
  As soon as some of the project works, get people to try it! Ask them what aspects of it you could make better or more useful. Tweak your project, and test it again.
  
